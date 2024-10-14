@@ -12,3 +12,4 @@
 
 # it connects to a email service on the backend (mailchimp) to store and broad cast up comeing church events
 #  and important church needs .
+  by means of crud methods in node and express server connrcting to mail chimp api.
